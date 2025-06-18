@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\infrastructure\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:infrastructure\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\infrastructure\\documenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:infrastructure\\documenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\infrastructure\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:infrastructure\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\infrastructure\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:infrastructure\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\infrastructure\\genderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:infrastructure\\genderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\controllers\\documenttypecontroller..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:controllers\\documenttypecontroller..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\models\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:models\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\controllers\\gendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:controllers\\gendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|c:\\users\\gomez.yohan\\source\\repos\\patientapi\\patientapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75FF73D1-6E1D-4BC0-9DAD-18CCD98FC200}|PatientAPI.csproj|solutionrelative:patientapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:31:44.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:29:10.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "Controllers\\ExamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:02:28.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:02:16.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Infrastructure\\ExamRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ExamRepository.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Infrastructure\\ExamRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ExamRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:01:30.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Infrastructure\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Infrastructure\\OrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:00:42.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:00:01.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\Exam.cs",
+              "RelativeToolTip": "Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:59:49.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Infrastructure\\DocumentTypeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DocumentTypeRepository.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Infrastructure\\DocumentTypeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\DocumentTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:08:58.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocumentTypeController..cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\DocumentTypeController..cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentTypeController..cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\DocumentTypeController..cs",
+              "RelativeToolTip": "Controllers\\DocumentTypeController..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:07:59.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenderController.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\GenderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenderController.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\GenderController.cs",
+              "RelativeToolTip": "Controllers\\GenderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:53:38.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Infrastructure\\GenderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenderRepository.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Infrastructure\\GenderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GenderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:46:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DocumentType.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\DocumentType.cs",
+              "RelativeDocumentMoniker": "Models\\DocumentType.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\DocumentType.cs",
+              "RelativeToolTip": "Models\\DocumentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:44:47.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\Gender.cs",
+              "RelativeToolTip": "Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:44:19.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:54:33.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T01:46:38.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Infrastructure\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Infrastructure\\PatientRepository.cs",
+              "RelativeToolTip": "Infrastructure\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:44:04.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:43:27.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:42:10.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PatientAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\PatientAPI.csproj",
+              "RelativeDocumentMoniker": "PatientAPI.csproj",
+              "ToolTip": "C:\\Users\\gomez.yohan\\source\\repos\\PatientAPI\\PatientAPI.csproj",
+              "RelativeToolTip": "PatientAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T01:38:18.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
